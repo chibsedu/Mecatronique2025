@@ -7,4 +7,6 @@
 > Memoire de fin d'etude realisé par:
 > CHIBANE Mohamed Ali\
 > SABIRI Mohamed\
-> YOUSSEF Khaled\
+> YOUSSEF Khaled
+>
+> Superviseur: Dr. Mohamed Elgadidi
