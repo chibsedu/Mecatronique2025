@@ -4,7 +4,7 @@
 
 ## Institut Mecatronique Senia - Oran
 
-> Memoire de fin d'etude realisé par:
+> Memoire de fin d'etude realisé par:\
 > CHIBANE Mohamed Ali\
 > SABIRI Mohamed\
 > YOUSSEF Khaled
